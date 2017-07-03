@@ -2,5 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/ews-java-api-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/ews-java-api-2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/ews-java-api-2.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/fluent-hc-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/httpclient-cache-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/httpclient-win-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/klauspeter/EclipseWorkspace/KonfiDisplay/jar/jna-platform-4.1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
